@@ -8,7 +8,7 @@ Features
 
     Manage Books: Add, update, delete, list, and search books by title, author, or ISBN.
     Manage Users: Add, update, delete, list, and search users by name or user ID.
-    Book Checkout and Return: Handle the checkout and return processes, tracking which books are with which users.
+    Book Checkout and Return: Handle the checkout and return processes.
     Book Availability: Check the availability of books in real-time.
     Logging: Simple logging of operations for auditing and troubleshooting.
 
